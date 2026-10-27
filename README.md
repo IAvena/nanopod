@@ -6,12 +6,11 @@ Made by **Isabelle Avena**. Friends: please don’t redistribute as your own —
 
 ## Download
 
-Grab the latest build from **[Releases](../../releases)**:
+**[Download for Mac](https://github.com/IAvena/nanopod/releases/download/v0.1.0/NanoPod-mac.zip)** — Apple Silicon, macOS 13+. First open: right-click → **Open**
 
-| Platform | File | Notes |
-|----------|------|--------|
-| Mac (Apple Silicon) | `NanoPod-mac.zip` | macOS 13+. First open: right-click → **Open** |
-| Windows | `NanoPod-win.zip` | Unzip → run `NanoPod.exe`. SmartScreen → More info → Run anyway |
+**[Download for Windows](https://github.com/IAvena/nanopod/releases/download/v0.1.0/NanoPod-win.zip)** — Windows x64. Unzip → run `NanoPod.exe`. SmartScreen → More info → Run anyway
+
+Other versions are on **[Releases](https://github.com/IAvena/nanopod/releases)**.
 
 ## Install
 
