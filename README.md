@@ -4,6 +4,8 @@ A tiny floating iPod-style music widget for **Mac** and **Windows**.
 
 Made by **Isabelle Avena**. Friends: please don’t redistribute as your own — share this Releases page instead.
 
+NanoPod is © 2026 Isabelle Avena, all rights reserved (personal use / friends download only).
+
 ## Download
 
 **[Download for Mac](https://github.com/IAvena/nanopod/releases/download/v0.1.0/NanoPod-mac.zip)** — Apple Silicon, macOS 13+. First open: right-click → **Open**
